@@ -3,7 +3,7 @@
 Welcome to my first website!
 The website was developed for learning purposes during Code Institute's Fullstack Web Development bootcamp.
 
- Check it out <a href=" https://iulia-dubovan.github.io/my-full-template/">here</a>
+ Check it out [here](https://iulia-dubovan.github.io/my-full-template/).
 
 ## Project Description
 
